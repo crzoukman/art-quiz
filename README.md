@@ -1,6 +1,6 @@
 # Art Quiz
 
-The clone of popular mobile app called Art Quiz. The App was made without any library/framework using pure javascript. 100% SPA.
+The clone of popular mobile app called Art Quiz. The App was made without any library/framework using pure javascript. 100% SPA. Selfmade app design.
 
 ## What is it capable to do?
 
